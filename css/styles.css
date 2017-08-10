@@ -1,0 +1,12 @@
+.ride1, .ride2, .ride3, .ride4 {
+  display: none;
+}
+
+.ride1 {
+  color: blue;
+
+}
+
+body img {
+  width:300px
+}
